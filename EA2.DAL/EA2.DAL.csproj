@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EA2.IDAL\EA2.IDAL.csproj" />
+    <ProjectReference Include="..\EA2.Model\EA2.Model.csproj" />
+  </ItemGroup>
+
+</Project>
